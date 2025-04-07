@@ -1,0 +1,20 @@
+{
+  "name": "dexscreener-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for DexScreener API",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
