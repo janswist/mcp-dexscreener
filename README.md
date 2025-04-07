@@ -2,8 +2,6 @@
 
 Basic MCP server for Dexscreener API based on their documentation (as of April 4th 2025): https://docs.dexscreener.com/api/reference
 
-# Running the app
-
 ## Project setup
 
 Install all the dependencies
@@ -35,5 +33,7 @@ In `claude_desktop_config.json` put `dexscreener` object:
 }
 
 ```
+
+## Running the app
 
 You can use [Inspector](https://modelcontextprotocol.io/docs/tools/inspector) to test the MCP server without using Claude Desktop - both for SDTIO version (default) and SSE version `index-sse.js` (server-sent events - can be hosted on remote server).
