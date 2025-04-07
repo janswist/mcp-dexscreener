@@ -1,6 +1,6 @@
 # Dexscreener MCP server
 
-Basic MCP server for Dexscreener API based on their documentatio (as of April 4th 2025): https://docs.dexscreener.com/api/reference
+Basic MCP server for Dexscreener API based on their documentation (as of April 4th 2025): https://docs.dexscreener.com/api/reference
 
 # Running the app
 
